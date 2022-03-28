@@ -1,15 +1,9 @@
-h1 {
-    color: darkblue
+.title {
+    background: #000;
+    color: aqua;
+    padding: 15px;
 }
 
-h2 {
-    color: red;
-}
-
-h3 {
-    color: cadetblue
-}
-
-h4 {
-    color: goldenrod
+p {
+    padding: 5px;
 }
